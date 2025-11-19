@@ -3,7 +3,7 @@ Berikut saya lampirkan link Gdrive yg berisi video demo aplikasi serta laporanny
 
 https://drive.google.com/drive/folders/1Id33t_sJYXQVgutJ-2ATQP31OWeTYcez
 
-<img width="743" height="850" alt="tampilan1" src="https://github.com/user-attachments/assets/d55e89a5-be73-4e0f-b3d9-828855942943" />
+<img width="768" height="872" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/dc680cbc-dc39-4951-8435-f9c4752eb3ef" />
 <img width="767" height="872" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/59650347-90ea-4b21-b8a7-f44a436977d2" />
 <img width="767" height="870" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/ebbc82d4-cfd5-44a2-b0ea-4b4be2b8a041" />
 <img width="761" height="871" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/02b2ce57-cd9c-45f2-8c6e-f7c6ca77d051" />
