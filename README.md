@@ -1,5 +1,5 @@
 # MovieApp
-Berikut saya lampirkan link Gdrive yg berisi video demo aplikasi serta laporannya
+Berikut kami lampirkan link Gdrive yg berisi video demo aplikasi serta laporannya
 
 https://drive.google.com/drive/folders/1Id33t_sJYXQVgutJ-2ATQP31OWeTYcez
 
